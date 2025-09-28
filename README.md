@@ -1,4 +1,3 @@
-Oke, gua rapihin full pake format **Markdown README GitHub** + bold/italic + emoji biar lebih profesional dan enak dibaca. Ini hasilnya:
 
 ---
 
@@ -31,7 +30,7 @@ Selain itu, dashboard ini juga menampilkan **distribusi geografis dan statistik 
 
 * 📂 **Dapodikdasmen 2023**
 * 🔗 [Dataset Pendidikan Jenjang SD Tahun 2023 – Kabupaten Pidie](https://data.pidiekab.go.id/dataset/data-pendidikan-jenjang-sd-tahun-2023)
-
+oke atau bisa langsung di donlod melalui repository dari saya di link berikut : csv-data-sekolah-sd-dapodikdasmen.csv
 ---
 
 ## 📌 Fitur Utama
